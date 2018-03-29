@@ -133,5 +133,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MordernDesignInXamlToolKit\MordernDesignInXamlToolKit.csproj">
+      <Project>{d53d2098-cf3c-48ac-a7c7-a3cdc2df1d4a}</Project>
+      <Name>MordernDesignInXamlToolKit</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
