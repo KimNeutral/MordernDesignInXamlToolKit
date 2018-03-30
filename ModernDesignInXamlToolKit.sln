@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainDemo", "MainDemo", "{9C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainDemo", "MainDemo\MainDemo.csproj", "{5B5C43A2-324A-4188-8EBD-7471A481B999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MordernDesignToolKit", "MordernDesignToolKit\MordernDesignToolKit.csproj", "{0A727DE7-DC16-444F-8C50-A370763098CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernDesignToolKit", "MordernDesignToolKit\ModernDesignToolKit.csproj", "{0A727DE7-DC16-444F-8C50-A370763098CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

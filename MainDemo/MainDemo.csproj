@@ -134,9 +134,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MordernDesignToolKit\MordernDesignToolKit.csproj">
+    <ProjectReference Include="..\MordernDesignToolKit\ModernDesignToolKit.csproj">
       <Project>{0a727de7-dc16-444f-8c50-a370763098cb}</Project>
-      <Name>MordernDesignToolKit</Name>
+      <Name>ModernDesignToolKit</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
