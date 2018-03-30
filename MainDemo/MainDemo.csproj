@@ -134,7 +134,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MordernDesignToolKit\ModernDesignToolKit.csproj">
+    <ProjectReference Include="..\ModernDesignToolKit\ModernDesignToolKit.csproj">
       <Project>{0a727de7-dc16-444f-8c50-a370763098cb}</Project>
       <Name>ModernDesignToolKit</Name>
     </ProjectReference>
