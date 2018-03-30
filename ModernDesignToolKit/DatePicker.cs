@@ -50,11 +50,13 @@ namespace ModernDesignToolKit
         public const string MainButtonPartName = "PART_MainButton";
         public const string UpButtonPartName = "PART_UpButton";
         public const string DownButtonPartName = "PART_DownButton";
+        public const string CalendarListViewPartName = "PART_CalendarListView";
 
         private Border _border;
         private Button _mainButton;
         private Button _upButton;
         private Button _downButton;
+        private ListView _calendarListView;
 
         static DatePicker()
         {
